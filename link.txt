@@ -3,3 +3,9 @@ Link to the nexus 4 uaprof
 here is the link to the nexus 4 uaprof
 
 http://gsm.lge.com/html/gsm/20130914.xml
+
+
+
+commit to investigate 
+
+https://github.com/CyanogenMod/android_device_lge_hammerhead/commit/c867f200de3aae88b2972fd63c7c70c3a7094f79
